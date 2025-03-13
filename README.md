@@ -6,4 +6,5 @@
 
 - [x] lecture 1
 - [x] lecture 2
-- [ ] lecture 3
+- [x] lecture 3
+- [ ] lecture 4
